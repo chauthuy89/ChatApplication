@@ -1,0 +1,42 @@
+F:\Advance Programming\ChatApplication\ChatClient\ChatClient\bin\Debug\ChatClient.exe.config
+F:\Advance Programming\ChatApplication\ChatClient\ChatClient\bin\Debug\ChatClient.exe
+F:\Advance Programming\ChatApplication\ChatClient\ChatClient\bin\Debug\ChatClient.pdb
+F:\Advance Programming\ChatApplication\ChatClient\ChatClient\obj\Debug\ChatClient.csprojResolveAssemblyReference.cache
+F:\Advance Programming\ChatApplication\ChatClient\ChatClient\obj\Debug\ChatClient.FormClient1.resources
+F:\Advance Programming\ChatApplication\ChatClient\ChatClient\obj\Debug\ChatClient.Properties.Resources.resources
+F:\Advance Programming\ChatApplication\ChatClient\ChatClient\obj\Debug\ChatClient.csproj.GenerateResource.Cache
+F:\Advance Programming\ChatApplication\ChatClient\ChatClient\obj\Debug\ChatClient.exe
+F:\Advance Programming\ChatApplication\ChatClient\ChatClient\obj\Debug\ChatClient.pdb
+G:\Advance Programming\ChatApplication\ChatClient\ChatClient\bin\Debug\ChatClient.exe.config
+G:\Advance Programming\ChatApplication\ChatClient\ChatClient\obj\Debug\ChatClient.exe
+G:\Advance Programming\ChatApplication\ChatClient\ChatClient\obj\Debug\ChatClient.pdb
+C:\ROSE\Advance Programming\Debby\ChatApplication\ChatClient\ChatClient\bin\Debug\ChatClient.exe.config
+C:\ROSE\Advance Programming\Debby\ChatApplication\ChatClient\ChatClient\bin\Debug\ChatClient.exe
+C:\ROSE\Advance Programming\Debby\ChatApplication\ChatClient\ChatClient\bin\Debug\ChatClient.pdb
+C:\ROSE\Advance Programming\Debby\ChatApplication\ChatClient\ChatClient\obj\Debug\ChatClient.csprojResolveAssemblyReference.cache
+C:\ROSE\Advance Programming\Debby\ChatApplication\ChatClient\ChatClient\obj\Debug\ChatClient.FormClient1.resources
+C:\ROSE\Advance Programming\Debby\ChatApplication\ChatClient\ChatClient\obj\Debug\ChatClient.Properties.Resources.resources
+C:\ROSE\Advance Programming\Debby\ChatApplication\ChatClient\ChatClient\obj\Debug\ChatClient.csproj.GenerateResource.Cache
+C:\ROSE\Advance Programming\Debby\ChatApplication\ChatClient\ChatClient\obj\Debug\ChatClient.csproj.CoreCompileInputs.cache
+C:\ROSE\Advance Programming\Debby\ChatApplication\ChatClient\ChatClient\obj\Debug\ChatClient.exe
+C:\ROSE\Advance Programming\Debby\ChatApplication\ChatClient\ChatClient\obj\Debug\ChatClient.pdb
+C:\ROSE\IT607 Advanced Programming\TH\ChatApplication\ChatClient\ChatClient\bin\Debug\ChatClient.exe.config
+C:\ROSE\IT607 Advanced Programming\TH\ChatApplication\ChatClient\ChatClient\bin\Debug\ChatClient.exe
+C:\ROSE\IT607 Advanced Programming\TH\ChatApplication\ChatClient\ChatClient\bin\Debug\ChatClient.pdb
+C:\ROSE\IT607 Advanced Programming\TH\ChatApplication\ChatClient\ChatClient\obj\Debug\ChatClient.csprojResolveAssemblyReference.cache
+C:\ROSE\IT607 Advanced Programming\TH\ChatApplication\ChatClient\ChatClient\obj\Debug\ChatClient.FormClient1.resources
+C:\ROSE\IT607 Advanced Programming\TH\ChatApplication\ChatClient\ChatClient\obj\Debug\ChatClient.Properties.Resources.resources
+C:\ROSE\IT607 Advanced Programming\TH\ChatApplication\ChatClient\ChatClient\obj\Debug\ChatClient.csproj.GenerateResource.Cache
+C:\ROSE\IT607 Advanced Programming\TH\ChatApplication\ChatClient\ChatClient\obj\Debug\ChatClient.csproj.CoreCompileInputs.cache
+C:\ROSE\IT607 Advanced Programming\TH\ChatApplication\ChatClient\ChatClient\obj\Debug\ChatClient.exe
+C:\ROSE\IT607 Advanced Programming\TH\ChatApplication\ChatClient\ChatClient\obj\Debug\ChatClient.pdb
+F:\ME\Southern Institute Of Technology\COURSES\ChatApplication\ChatClient\ChatClient\bin\Debug\ChatClient.exe.config
+F:\ME\Southern Institute Of Technology\COURSES\ChatApplication\ChatClient\ChatClient\bin\Debug\ChatClient.exe
+F:\ME\Southern Institute Of Technology\COURSES\ChatApplication\ChatClient\ChatClient\bin\Debug\ChatClient.pdb
+F:\ME\Southern Institute Of Technology\COURSES\ChatApplication\ChatClient\ChatClient\obj\Debug\ChatClient.csprojAssemblyReference.cache
+F:\ME\Southern Institute Of Technology\COURSES\ChatApplication\ChatClient\ChatClient\obj\Debug\ChatClient.FormClient1.resources
+F:\ME\Southern Institute Of Technology\COURSES\ChatApplication\ChatClient\ChatClient\obj\Debug\ChatClient.Properties.Resources.resources
+F:\ME\Southern Institute Of Technology\COURSES\ChatApplication\ChatClient\ChatClient\obj\Debug\ChatClient.csproj.GenerateResource.cache
+F:\ME\Southern Institute Of Technology\COURSES\ChatApplication\ChatClient\ChatClient\obj\Debug\ChatClient.csproj.CoreCompileInputs.cache
+F:\ME\Southern Institute Of Technology\COURSES\ChatApplication\ChatClient\ChatClient\obj\Debug\ChatClient.exe
+F:\ME\Southern Institute Of Technology\COURSES\ChatApplication\ChatClient\ChatClient\obj\Debug\ChatClient.pdb
